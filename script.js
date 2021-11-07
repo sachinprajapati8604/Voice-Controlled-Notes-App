@@ -20,8 +20,6 @@ try {
   var notes = getAllNotes();
   renderNotes(notes);
   
-  
-  
   /*-----------------------------
         Voice Recognition 
   ------------------------------*/
